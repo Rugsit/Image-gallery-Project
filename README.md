@@ -19,6 +19,6 @@ https://image-gallery-project-omega.vercel.app/
 
 ## Descriptions
 - This project is created for practicing web development and enhancing skills in React, TailwindCSS, Neovim, REST APIs, as well as JavaScript and HTML.
-- The program includes four features: adding, removing, updating, and filtering to-do items.
+- You can enter a search term to find images of your choice. The images are retrieved from the Pixabay API.
 - It supports responsive design.
 - Ui ref https://youtu.be/FiGmAI5e91M?si=njHH6esUniytytHz
