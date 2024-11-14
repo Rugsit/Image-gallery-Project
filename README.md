@@ -15,10 +15,10 @@
 ![imagegallaryimg](https://github.com/user-attachments/assets/ec2aade1-67cd-4657-8bc2-1c880efcfe9f)
 
 ## Live Demo
-https://todo-project-swart.vercel.app/
+https://image-gallery-project-omega.vercel.app/
 
 ## Descriptions
 - This project is created for practicing web development and enhancing skills in React, TailwindCSS, Neovim, REST APIs, as well as JavaScript and HTML.
 - The program includes four features: adding, removing, updating, and filtering to-do items.
 - It supports responsive design.
-- Ui ref https://github.com/ShaifArfan/react-todo-app
+- Ui ref https://youtu.be/FiGmAI5e91M?si=njHH6esUniytytHz
